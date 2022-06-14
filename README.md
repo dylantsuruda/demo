@@ -1,0 +1,1 @@
+A Spring app that does single sign on
